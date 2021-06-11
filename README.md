@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👨‍💻 All of my projects are available at [endlesscompany2.000webhostapp.com/](endlesscompany2.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [endlesscompany2.000webhostapp.com/](endlesscompany2.000webhostapp.com/) & [http://miguelac.netlify.app/](http://miguelac.netlify.app/)
 
 - 💬 Ask me about **web design, ui design, front-end**
 
