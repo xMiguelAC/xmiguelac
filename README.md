@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xmiguelac" alt="xmiguelac" /> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 Welcome!
 
 - 👨‍💻 All of my projects are available at [endlesscompany2.000webhostapp.com/](endlesscompany2.000webhostapp.com/) &
 [http://miguelac.netlify.app/](http://miguelac.netlify.app/)
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mikemiguelangel@hotmail.com**
 
-- ⚡ Fun fact **i wanna be a FullJStack xd**
+- ⚡ Fun fact **i want to be a Full-JS-tack xd**
 
 - 🧠 Now Learning: **React JS**
 
